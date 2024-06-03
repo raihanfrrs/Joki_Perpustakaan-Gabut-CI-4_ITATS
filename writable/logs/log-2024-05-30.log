@@ -1,0 +1,667 @@
+CRITICAL - 2024-05-30 03:12:37 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:12:37 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-30 03:12:51 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:12:51 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\Helpers\number_helper.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Helpers\number_helper.php(56): format_number(6, 2, NULL, Array)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(152): number_to_size(6, 2)
+#2 C:\xampp\htdocs\Tugas_PBFP\app\Views\errors\html\error_exception.php(384): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(258): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Exceptions\FrameworkException), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(Code
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 137.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-30 03:12:53 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:12:53 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-30 03:13:37 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:13:37 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\Helpers\number_helper.php:137
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Helpers\number_helper.php(56): format_number(6, 2, NULL, Array)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(152): number_to_size(6, 2)
+#2 C:\xampp\htdocs\Tugas_PBFP\app\Views\errors\html\error_exception.php(384): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(258): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\BaseExceptionHandler.php(261): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Exceptions\FrameworkException), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(Code
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 137.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-30 03:13:39 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:13:39 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-30 03:18:10 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-30 03:18:10 --> ErrorException: Uncaught Error: Class 'Locale' not found in C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Debug\Exceptions.php(157): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\Tugas_PBFP\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-05-30 01:21:08 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:21:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:25 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:26 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:26 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+ERROR - 2024-05-30 01:27:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'ahlan'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'db_pbf', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\Tugas_PBFP\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-05-30 01:27:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1700): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(624): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 4 SYSTEMPATH\BaseModel.php(1239): CodeIgniter\Model->countAllResults(false)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): CodeIgniter\BaseModel->paginate(5, 'isi_db')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 11:35:18 --> Error: Call to a member function getRandomName() on null
+in APPPATH\Controllers\PerpustakaanController.php on line 74.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 11:48:05 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\kerangka.php on line 23.
+ 1 APPPATH\Views\kerangka.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php', 23)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('kerangka', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 6 APPPATH\Controllers\PerpustakaanController.php(36): view('informasi_koleksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 11:48:37 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\kerangka.php on line 27.
+ 1 APPPATH\Views\kerangka.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php', 27)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('kerangka', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 6 APPPATH\Controllers\PerpustakaanController.php(36): view('informasi_koleksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 11:49:22 --> ErrorException: Undefined property: CodeIgniter\View\View::$uri
+in APPPATH\Views\kerangka.php on line 27.
+ 1 APPPATH\Views\kerangka.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$uri', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php', 27)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('kerangka', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 6 APPPATH\Controllers\PerpustakaanController.php(36): view('informasi_koleksi', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 12:08:11 --> Error: Cannot use object of type stdClass as array
+in APPPATH\Controllers\PerpustakaanController.php on line 67.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->hapus()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 12:16:38 --> ErrorException: Attempt to read property "id" on array
+in APPPATH\Controllers\PerpustakaanController.php on line 108.
+ 1 APPPATH\Controllers\PerpustakaanController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 12:17:57 --> ErrorException: Attempt to read property "id" on array
+in APPPATH\Controllers\PerpustakaanController.php on line 108.
+ 1 APPPATH\Controllers\PerpustakaanController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 12:18:27 --> ErrorException: Attempt to read property "password" on array
+in APPPATH\Controllers\PerpustakaanController.php on line 108.
+ 1 APPPATH\Controllers\PerpustakaanController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "password" on array', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 12:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-30 12:19:48 --> ErrorException: Undefined array key "username"
+in APPPATH\Controllers\PerpustakaanController.php on line 112.
+ 1 APPPATH\Controllers\PerpustakaanController.php(112): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 112)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 12:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-30 12:21:58 --> ErrorException: Undefined variable $session
+in APPPATH\Views\kerangka.php on line 38.
+ 1 APPPATH\Views\kerangka.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\kerangka.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('kerangka', [], true)
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\PerpustakaanController.php(14): view('home')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_halaman_utama()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 12:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 12:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-30 13:23:15 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 146.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\PerpustakaanController.php(82): CodeIgniter\HTTP\Files\UploadedFile->move('sampul/', '1717075395_8c054398137a1fee0885')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 13:24:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 146.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\PerpustakaanController.php(93): CodeIgniter\HTTP\Files\UploadedFile->move('sampul/', '')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 13:24:57 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 146.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\PerpustakaanController.php(93): CodeIgniter\HTTP\Files\UploadedFile->move('sampul/', '')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 13:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-30 13:25:04 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 146.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(146): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\PerpustakaanController.php(93): CodeIgniter\HTTP\Files\UploadedFile->move('sampul/', '')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+CRITICAL - 2024-05-30 13:26:02 --> ErrorException: unlink(sampul/): Is a directory
+in APPPATH\Controllers\PerpustakaanController.php on line 94.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sampul/): Is a directory', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 94)
+ 2 APPPATH\Controllers\PerpustakaanController.php(94): unlink('sampul/')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->pemutahiran()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 13:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:30:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-30 13:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-30 13:36:08 --> ErrorException: unlink(sampul/): Is a directory
+in APPPATH\Controllers\PerpustakaanController.php on line 67.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(sampul/): Is a directory', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 67)
+ 2 APPPATH\Controllers\PerpustakaanController.php(67): unlink('sampul/')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->hapus()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Tugas_PBFP\\public\\index.php')
+INFO - 2024-05-30 13:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

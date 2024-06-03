@@ -1,0 +1,360 @@
+CRITICAL - 2024-05-29 07:29:39 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:31:44 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:31:45 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:31:45 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:31:51 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:02 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:03 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:04 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:04 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:04 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:04 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:04 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-29 07:35:28 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+ERROR - 2024-05-29 05:47:39 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-29 05:47:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-29 05:49:12 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'ci4' in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'ahlan', 'ahlanwasahlan', 'ci4', 3306, '', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'ci4' in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+#7 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-05-29 05:49:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tb_buku`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PerpustakaanController.php(24): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 06:37:07 --> ErrorException: Undefined variable $ambil_data
+in APPPATH\Controllers\PerpustakaanController.php on line 66.
+ 1 APPPATH\Controllers\PerpustakaanController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ambil_data', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 66)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->show_pengguna()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 06:50:33 --> ParseError: syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\PerpustakaanController.php on line 68.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PerpustakaanController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PerpustakaanController')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\PerpustakaanController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 08:19:33 --> ErrorException: Trying to access array offset on value of type null
+in APPPATH\Controllers\PerpustakaanController.php on line 82.
+ 1 APPPATH\Controllers\PerpustakaanController.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 08:23:16 --> ErrorException: Undefined array key "pass"
+in APPPATH\Controllers\PerpustakaanController.php on line 79.
+ 1 APPPATH\Controllers\PerpustakaanController.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 79)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 08:24:52 --> ErrorException: Undefined array key "pass"
+in APPPATH\Controllers\PerpustakaanController.php on line 79.
+ 1 APPPATH\Controllers\PerpustakaanController.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pass"', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Controllers\\PerpustakaanController.php', 79)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->aksi_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-29 09:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-29 09:09:53 --> ErrorException: Undefined global variable $_SESSION
+in APPPATH\Views\home.php on line 7.
+ 1 APPPATH\Views\home.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\home.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(14): view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_halaman_utama()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 09:11:15 --> ErrorException: Undefined global variable $_SESSION
+in APPPATH\Views\home.php on line 7.
+ 1 APPPATH\Views\home.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $_SESSION', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\home.php', 7)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(14): view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_halaman_utama()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-29 11:49:50 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Tugas_PBFP\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\Tugas_PBFP\system\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Tugas_PBFP\system\BaseModel.php(802): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Tugas_PBFP\system\Model.php(744): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Tugas_PBFP\app\Controllers\PerpustakaanController.php(42): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tambah_data()
+#9 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+#10 C:\xampp\htdocs\Tugas_PBFP\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Tugas_PBFP\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-29 11:49:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (:judul_buku:, :penulis:, :penerbit:)', [...], false)
+ 2 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(42): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tambah_data()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 11:49:50 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (\'Harry Potter And The Chamber of Secrets\', \'J.K Rowling\', \'internasional\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (\'Harry Potter And The Chamber of Secrets\', \'J.K Rowling\', \'internasional\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (:judul_buku:, :penulis:, :penerbit:)', [...], false)
+ 4 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\PerpustakaanController.php(42): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tambah_data()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 11:49:50 --> [Caused by] mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (\'Harry Potter And The Chamber of Secrets\', \'J.K Rowling\', \'internasional\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (\'Harry Potter And The Chamber of Secrets\', \'J.K Rowling\', \'internasional\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (\'Harry Potter And The Chamber of Secrets\', \'J.K Rowling\', \'internasional\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb_buku` (`judul_buku`, `penulis`, `penerbit`) VALUES (:judul_buku:, :penulis:, :penerbit:)', [...], false)
+ 5 SYSTEMPATH\Model.php(326): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(802): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\PerpustakaanController.php(42): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tambah_data()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 11:50:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Deletes are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Database\BaseBuilder.php on line 2763.
+ 1 SYSTEMPATH\Model.php(453): CodeIgniter\Database\BaseBuilder->delete()
+ 2 SYSTEMPATH\BaseModel.php(1117): CodeIgniter\Model->doDelete('0', false)
+ 3 APPPATH\Controllers\PerpustakaanController.php(50): CodeIgniter\BaseModel->delete('0')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->hapus()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 13:44:09 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 13:52:46 --> ErrorException: Undefined variable $pager
+in APPPATH\Views\informasi_koleksi.php on line 182.
+ 1 APPPATH\Views\informasi_koleksi.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php', 182)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(32): view('informasi_koleksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 13:52:50 --> ErrorException: Undefined variable $pager
+in APPPATH\Views\informasi_koleksi.php on line 182.
+ 1 APPPATH\Views\informasi_koleksi.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php', 182)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(32): view('informasi_koleksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:21:01 --> ErrorException: Undefined variable $isi_db
+in APPPATH\Views\informasi_koleksi.php on line 24.
+ 1 APPPATH\Views\informasi_koleksi.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isi_db', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(32): view('informasi_koleksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:23:30 --> ErrorException: Undefined variable $pager
+in APPPATH\Views\informasi_koleksi.php on line 182.
+ 1 APPPATH\Views\informasi_koleksi.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pager', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php', 182)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(31): view('informasi_koleksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:32:59 --> ErrorException: Undefined variable $isi_db
+in APPPATH\Views\informasi_koleksi.php on line 24.
+ 1 APPPATH\Views\informasi_koleksi.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isi_db', 'C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php', 24)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Tugas_PBFP\\app\\Views\\informasi_koleksi.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('informasi_koleksi', [], true)
+ 5 APPPATH\Controllers\PerpustakaanController.php(34): view('informasi_koleksi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:55:07 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:55:08 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:55:33 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:56:12 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-29 14:56:13 --> Error: Object of class App\Models\Modelbuku could not be converted to string
+in APPPATH\Controllers\PerpustakaanController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PerpustakaanController->tampilkan_koleksi()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerpustakaanController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
